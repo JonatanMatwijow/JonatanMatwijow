@@ -3,7 +3,7 @@
 I am JonatanMatwijow, a young man who has become unemployed, and being a technology enthusiast
 I have started studying to become a junior full stack developer. 
 
-...js
+```js
 const aboutMe = {
   😄 pronouns: "He" | "Him",
   
@@ -17,7 +17,7 @@ const aboutMe = {
   💬 askMeAbout: ["autodidact", "crypto enthusiast", "fly fishing"],
  
 }
-...
+```
 
 <!--
 **JonatanMatwijow/JonatanMatwijow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
