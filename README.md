@@ -3,7 +3,7 @@
 I am JonatanMatwijow, a young man who has become unemployed, and being a technology enthusiast
 I have started studying to become a junior full stack developer. 
 
-```js
+```ts
 const aboutMe = {
   😄 pronouns: "He" | "Him",
   
